@@ -1,16 +1,25 @@
-## Hi there 👋
+# Артем B-PM
 
-<!--
-**artembalnykh-stack/artembalnykh-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Руководитель проектов и методолог · Практик вайбкодинга и ИИ-агентов**
 
-Here are some ideas to get you started:
+Соединяю управление проектами с практической разработкой: помогаю прояснить задачу, договориться о результате и собрать работающий цифровой продукт с помощью ИИ-агентов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Чем могу быть полезен
+
+- **Командам и работодателям:** управление проектами, работа со стейкхолдерами, описание и улучшение процессов, методология и прозрачная командная работа.
+- **Частным заказчикам:** проработка идеи и пользовательского сценария, прототип или MVP, лендинг, бот или небольшой веб-инструмент — от требований до работающего демо.
+
+В проектном управлении использую Waterfall и Agile-подходы, Scrum, Kanban, OKR; для проработки задач — CustDev, Use Case, User Story, MoSCoW и RICE. Практикую BPMN и вайбкодинг с ИИ-агентами в VS Code.
+
+## Примеры вайбкод-продуктов
+
+- [Neyroflow](https://github.com/artembalnykh-stack/client-tracker-portfolio) — задачи студии, клиентский портал и согласование правок на макетах.
+- [Калькулятор заказа с доставкой](https://github.com/artembalnykh-stack/Aggregate-delivery-calculator) — расчёт заказа и подготовка документации.
+- [VK ChatBot](https://github.com/artembalnykh-stack/Chatbot-VK) — демо ИИ-консультанта с базой знаний и сбором заявок.
+- [Лендинг репетитора](https://github.com/artembalnykh-stack/Landing-tutor) — демонстрационный сайт с несколькими темами и формой заявки.
+- [«Свои»](https://github.com/artembalnykh-stack/Treker_svoi) — демо-трекер семейных задач с канбан-доской.
+- [ТехМастер](https://github.com/artembalnykh-stack/Phone_repair) — адаптивный сайт сервиса ремонта с прайсом и формой заявки.
+
+## Подход
+
+Сначала разбираюсь в задаче и критериях готовности, затем делаю решение небольшими проверяемыми шагами. ИИ-агенты помогают ускорить прототипирование и реализацию; результат проверяю по сценарию использования.
